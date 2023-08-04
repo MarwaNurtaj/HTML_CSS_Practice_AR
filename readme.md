@@ -1,7 +1,7 @@
 # HTML CSS
 
--html
--tag (helps us to show txts,imges to the web browser)
+--html
+--tag (helps us to show txts,imges to the web browser)
 -element
 -attribute
 -types of tag (pair tag, container tag like (<p>  </p>)
