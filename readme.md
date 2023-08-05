@@ -1,6 +1,6 @@
 # HTML CSS
 
--html
+--html
 -tag (helps us to show txts,imges to the web browser)
 -element
 -attribute
@@ -38,5 +38,50 @@ unordered list
 --description list
 dl tag with dt and dd
 
---
+--link 
+--target(_self, _blank)
+link opens in a different tab
+
+--images 
+-unsplash is a good https://unsplash.com/
+
+-free image host https://postimages.org/
+post image get link and use se direct link 
+--frame
+embedded link
+website, vdo, map
+audio share https://sndup.net/
+
+--table
+--Form
+for user accessibility we use label thus any user can understand when they are using screen reader
+name attribute is used to handel data from backend it should be same as the label.
+id is used to combine the label and input field
+--https://formspree.io/
+
+--web accessibility
+iframe title
+-inspect ->lighthouse->accessibility
+-semantic (meaningful like table,form tag) tag vs non-semantic(div tag is not much meaningful)
+for semantic
+-nav
+-header
+-main
+-section
+<!--</main>-->
+--footer
+
+--img alt 
+--link name describable
+--form label
+--role
+--aria label
+(if we make button with div tag then set role as button 
+thus its explicitly sematic
+and if we use button then give aria-label=
+screen reader will read ria -label because the priority of the attribute is set high than the test given in the tags
+because it gives more detail information)
+
+
+
 
