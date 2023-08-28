@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    padding: 2rem;
+    margin: 2rem;
+    background-color: aquamarine !important;
+}
+h1.heading{
+    background-color: black;
+}
+.heading{
+    background-color: blue;
+}
+#title{
+    background-color: brown;
+}
+.container{
+    padding: 1.5rem;
+    margin: 0.5rem;
+}
+
+
+
+.btn{
+    border:none;
+    padding: 0.8rem; 
+    margin: 0.5rem 0;
+    border-radius: 1.8rem;
+    background-color: blanchedalmond;
+    cursor: pointer;
+
+}
+
+.card__title{
+    color: red;
+
+}
+
+.feedback__btn--large{
+    width: 20rem;
+}
+.card--color{
+    width: 50rem;
+    background-color: brown;
+}

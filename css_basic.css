@@ -16,3 +16,6 @@ ol li:first-child{
 ol li:nth-child(3){
     color: aqua;
 }
+*{
+    box-sizing: border-box;
+}

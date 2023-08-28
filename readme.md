@@ -22,7 +22,7 @@
 -headings
 -hr horizontal rule
 -line break
--text formating (strong, em, mark, sup, sub, pre)
+-text formatting (strong, em, mark, sup, sub, pre)
 -entity
 -structure of entity
 & and symbol with a keyword;
